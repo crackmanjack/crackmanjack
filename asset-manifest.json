@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/crackmanjack/crackmanjack.git/static/css/main.f855e6bc.css",
-    "main.js": "/crackmanjack/crackmanjack.git/static/js/main.b6d561bf.js",
-    "static/js/425.b2d71285.chunk.js": "/crackmanjack/crackmanjack.git/static/js/425.b2d71285.chunk.js",
-    "static/media/bossman.png": "/crackmanjack/crackmanjack.git/static/media/bossman.02a8f6de43428f8d677b.png",
-    "static/media/logo.svg": "/crackmanjack/crackmanjack.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/crackmanjack/crackmanjack.git/index.html",
-    "main.f855e6bc.css.map": "/crackmanjack/crackmanjack.git/static/css/main.f855e6bc.css.map",
-    "main.b6d561bf.js.map": "/crackmanjack/crackmanjack.git/static/js/main.b6d561bf.js.map",
-    "425.b2d71285.chunk.js.map": "/crackmanjack/crackmanjack.git/static/js/425.b2d71285.chunk.js.map"
+    "main.css": "/crackmanjack/static/css/main.f855e6bc.css",
+    "main.js": "/crackmanjack/static/js/main.e91c1c7f.js",
+    "static/js/425.b2d71285.chunk.js": "/crackmanjack/static/js/425.b2d71285.chunk.js",
+    "static/media/bossman.png": "/crackmanjack/static/media/bossman.02a8f6de43428f8d677b.png",
+    "static/media/logo.svg": "/crackmanjack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crackmanjack/index.html",
+    "main.f855e6bc.css.map": "/crackmanjack/static/css/main.f855e6bc.css.map",
+    "main.e91c1c7f.js.map": "/crackmanjack/static/js/main.e91c1c7f.js.map",
+    "425.b2d71285.chunk.js.map": "/crackmanjack/static/js/425.b2d71285.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b6d561bf.js"
+    "static/js/main.e91c1c7f.js"
   ]
 }

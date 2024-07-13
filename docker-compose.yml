@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: .
+    ports:
+      - "3000:3000"  # Map port 3000 of the container to port 3000 of the host machine
+    volumes:
+      - ./:/app  # Mount the current directory (your React project) as /app inside the container
+    command: npm start
+    # Optional: You can specify environment variables here
+    # environment:
+    #   - REACT_APP_NAME=MyReactApp

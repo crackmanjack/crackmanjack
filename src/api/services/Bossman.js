@@ -3,7 +3,7 @@ import Moralis from 'moralis';
 const baseUrl = 'https://deep-index.moralis.io/api/v2.2/wallets/:address/net-worth'; // Replace with your actual API base URL
 
 await Moralis.start({
-    apiKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjdlMDVkYmEzLWZiZGUtNDc5Ni05YTBhLTQ3ZTU0NTE5NTc0NSIsIm9yZ0lkIjoiMzk5OTYyIiwidXNlcklkIjoiNDEwOTc1IiwidHlwZUlkIjoiNzQ0YTkzZGUtNzFkOS00NGY3LWIwZmMtODJmMzJiZjdmNTk0IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3MjA4MzgzNjEsImV4cCI6NDg3NjU5ODM2MX0.Tf4GLnZyWeMpDhrFsA0eCiznSnq5cMTxp0bYTAk-xQw'
+    apiKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6ImM4OGRhOTBiLTY1ZjAtNDYxNi1hMzg5LWJiYjczYThiOWU1NCIsIm9yZ0lkIjoiMzk5OTc4IiwidXNlcklkIjoiNDEwOTkxIiwidHlwZUlkIjoiZTUxOTg2YWMtYmE4Ny00OTJhLTgyN2YtMzhjMTQ4ZmY3YmFmIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3MjA4NTA5MjYsImV4cCI6NDg3NjYxMDkyNn0.aD5y2MwNJNgr27cd0_p5ZTkp6MC6M7jN-J37LHg9Epg'
 });
 
 export const getBossman = async () => {

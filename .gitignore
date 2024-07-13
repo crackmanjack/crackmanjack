@@ -1,0 +1,43 @@
+# Build products
+/build/
+
+# Dependency directories
+/node_modules/
+
+# Coverage reports
+/coverage/
+
+# Test output
+/test-results/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Temporary npm cache directory
+.npm/
+
+# Local environmental variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# React server configuration
+.eslintrc.json
+
+# Stylelint configuration
+stylelint.config.js
+
+# Prettier configuration
+prettier.config.js
+
+# Yarn workspaces configuration
+yarn.lock
+
+# Storybook files
+.storybook/
+
+# Api keys and secrets
+# Replace 'YOUR_API_KEY' with the actual name of your secret file
+.env.api_key
